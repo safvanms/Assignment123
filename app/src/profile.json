@@ -1,0 +1,16 @@
+{
+  "profile": [
+    {
+      "name": "David Token",
+      "designation": "MID ARCHITECT",
+      "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim  veniam, quis nostrud .",
+      "email": "hello@reallygreatsite.com",
+      "phone": 1234567890,
+      "bachelor": "Marcelioneli Art Academy",
+      "master": "Sami Institute of the Arts",
+      "language": "Lorem ipsom dolor sit amet , blah blah blah ",
+      "text": "Worked or marketing Campaigns , Handled multiple digital accounts , Create digital marketing Campaigns.",
+      "image": "https://www.seekpng.com/png/detail/60-604032_face-businessman-png-dummy-images-for-testimonials.png"
+    }
+  ]
+}

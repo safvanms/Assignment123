@@ -1,0 +1,20 @@
+.e-contents >h1 {
+     text-transform: uppercase;
+     color: #444440;
+     font-size: 14px;
+     margin-top: 30px;
+     margin-bottom: 30px;
+}
+
+.exp-head {
+     text-transform: uppercase;
+     color: #444440;
+     font-size: 10px;
+     font-weight: bolder;
+     display: flex;
+     justify-content: space-between;
+}
+
+p{
+     font-size: 10px;
+}

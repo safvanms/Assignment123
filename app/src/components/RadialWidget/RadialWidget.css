@@ -1,0 +1,49 @@
+.main {
+  width: 60px;
+  height: 60px;
+  position: relative;
+}
+
+.outer {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  padding-left: 10px;
+  padding-top: 9px;
+  background-color: #adb7c9;
+
+}
+
+.inner {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+}
+
+#name {
+  color: #5b5b5b;
+  font-weight: 600px;
+}
+
+.name {
+     font-size: 11px;
+     font-weight: 600px;
+}
+
+circle {
+  fill: none;
+  stroke: #6b6b6b;
+  stroke-width: 8px;
+  /* stroke-dasharray: 100;
+  stroke-dashoffset: 150; */
+}
+
+svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+}

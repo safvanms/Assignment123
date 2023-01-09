@@ -1,0 +1,20 @@
+
+.l-head{
+     text-transform: uppercase;
+     color: #444440;
+     font-size: 14px;
+     margin: 30px 0px 20px 0px;
+     font-weight: 600;
+}
+
+.l-details{
+     font-size: 10px;
+     margin: 0px 0px 10px 0px;
+}
+
+.languages{
+     display: flex;
+     justify-content: center;
+     align-items: flex-start;
+     gap: 20px;
+}

@@ -1,0 +1,30 @@
+.bar-widget {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.bar-widget label {
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.bar-container {
+  position: relative;
+  height: 10px;
+  width: 100%;
+  background-color: #fff;
+  overflow: hidden;
+  border-radius: 2px;
+}
+
+.bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  background-color: #adb7c9;
+  border-radius: 2px;
+}

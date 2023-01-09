@@ -1,0 +1,9 @@
+.skill>p {
+     text-transform: uppercase;
+     color: #444440;
+     font-weight: bolder;
+     font-size: 10px;
+}
+.skill>:nth-child(1){
+     margin-top: 40px;
+}
